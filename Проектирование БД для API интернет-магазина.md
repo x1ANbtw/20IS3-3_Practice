@@ -1,2 +1,2 @@
 # Визуализация БД
-![image](https://user-images.githubusercontent.com/125022706/219596090-dac60b99-aa47-48d0-8da4-df4f2c9f4de2.png)
+![image](https://user-images.githubusercontent.com/125022706/219603799-512ec00c-9432-4eef-9cd4-b3311aa53d91.png)
