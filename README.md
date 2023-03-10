@@ -1,7 +1,7 @@
 # 20IS3-3_Practice_Bruev
 [task1](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev#:~:text=20IS3%2D3_Practice_Bruev-,%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C%201,-1%20%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20task)
 [task2](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/blob/main/README.md#:~:text=%D0%BA%20%D0%BD%D0%B5%D0%BC%D1%83%20screens-,%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C%202,-%D0%92%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%D0%91%D0%94)
-[task3]
+[task3](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/blob/main/README.md#%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D0%B4%D0%B5%D0%BD%D1%8C-3:~:text=%D0%91%D0%94%20%D0%B2%20SQL-,%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C%203,-%D0%A4%D0%BE%D1%80%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%BE%D1%81%D0%BA%D0%B8%20%D1%81)
 ## Практический день 1
 1 Задание [task 1](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/tree/main/BackendAPI) и скриншоты к нему [screens](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/tree/main/ScreenShots)
 ![MainMenu](https://user-images.githubusercontent.com/125022706/224268261-1aaa2fd9-01e4-4823-9719-6f9a300e87bb.jpg)
