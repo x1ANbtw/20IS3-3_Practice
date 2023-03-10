@@ -1,5 +1,6 @@
 # 20IS3-3_Practice_Bruev
 
+1 Задание [task 1](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/tree/main/BackendAPI) и скриншоты к нему [screens](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/tree/main/ScreenShots)
 ![MainMenu](https://user-images.githubusercontent.com/125022706/218097929-d2b577a3-92a2-46a9-affc-b015be399e07.jpg)
 ![Add](https://user-images.githubusercontent.com/125022706/218097965-9be570a6-bc14-4643-91e3-6f432512c194.jpg)
 ![GetByIndex](https://user-images.githubusercontent.com/125022706/218098007-de9d6c7a-d947-4340-897c-b47bd413a6f2.jpg)
