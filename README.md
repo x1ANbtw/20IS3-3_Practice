@@ -1,7 +1,7 @@
 # 20IS3-3_Practice_Bruev
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Nikita</a> 
+<h1 align="center">Привет, Я <a href="https://daniilshat.ru/" target="_blank">Никита</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I'm Student of group 20IS3-3 in Tsaritsyno College</h3>
+<h3 align="center">Я студент группы 20ИС3-3 </h3>
 
 День 1: [task1](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev#:~:text=20IS3%2D3_Practice_Bruev-,%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C%201,-1%20%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20task)
 
