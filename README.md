@@ -13,4 +13,7 @@
 ![RemoveAt(10)_Succes](https://user-images.githubusercontent.com/125022706/224268593-63b382bf-8a10-4bab-a38f-972f2c01cefd.jpg)
 ![RemoveAt(14)_Error(more_than_count)](https://user-images.githubusercontent.com/125022706/224268601-28d828df-e1a7-4f6e-a5dd-ba10d00c2ff9.jpg)
 ## Практический день 2
-[task](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%91%D0%94%20%D0%B4%D0%BB%D1%8F%20API%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82-%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D0%B0.md)
+# Визуализация БД
+![image](https://user-images.githubusercontent.com/125022706/222664049-1e7bc556-cd7d-4bbc-91fd-3a05ba661602.png)
+# Создание диаграммы БД в SQL
+![image](https://user-images.githubusercontent.com/125022706/222655936-0694fef6-6238-4ef1-b329-d8bbe280a06e.png)
