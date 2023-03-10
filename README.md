@@ -1,5 +1,5 @@
 # 20IS3-3_Practice_Bruev
-<h1 align="center">Привет, Я <a href="https://daniilshat.ru/" target="_blank">Никита</a> 
+<h1 align="center">Привет, Я <a href="https://github.com/x1ANbtw" target="_blank">Никита</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Я студент группы 20ИС3-3 </h3>
 
