@@ -12,3 +12,5 @@
 ![Update(14, SuperCool)_Error(more_than_count)](https://user-images.githubusercontent.com/125022706/224268577-c6811a20-cda6-4deb-85a0-d617d2b3b5cc.jpg)
 ![RemoveAt(10)_Succes](https://user-images.githubusercontent.com/125022706/224268593-63b382bf-8a10-4bab-a38f-972f2c01cefd.jpg)
 ![RemoveAt(14)_Error(more_than_count)](https://user-images.githubusercontent.com/125022706/224268601-28d828df-e1a7-4f6e-a5dd-ba10d00c2ff9.jpg)
+## Практический день 2
+[task](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%91%D0%94%20%D0%B4%D0%BB%D1%8F%20API%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82-%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D0%B0.md)
