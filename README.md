@@ -29,5 +29,5 @@
 # Создание диаграммы БД в SQL
 ![image](https://user-images.githubusercontent.com/125022706/222655936-0694fef6-6238-4ef1-b329-d8bbe280a06e.png)
 ## Практический день 3
-# Формирование доски с задачами
+# Формирование [доски с задачами](https://github.com/users/x1ANbtw/projects/2)
 ![image](https://user-images.githubusercontent.com/125022706/224269910-52e67109-9be3-4d0b-a5a5-94dc2d2af6a6.png)
