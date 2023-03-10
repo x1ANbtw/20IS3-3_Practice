@@ -25,11 +25,14 @@
 ![RemoveAt(10)_Succes](https://user-images.githubusercontent.com/125022706/224268593-63b382bf-8a10-4bab-a38f-972f2c01cefd.jpg)
 ![RemoveAt(14)_Error(more_than_count)](https://user-images.githubusercontent.com/125022706/224268601-28d828df-e1a7-4f6e-a5dd-ba10d00c2ff9.jpg)
 
-## Практический день 2
+<h3 align="center">Практический день 2</h3>
+
 # Визуализация БД
 ![image](https://user-images.githubusercontent.com/125022706/222664049-1e7bc556-cd7d-4bbc-91fd-3a05ba661602.png)
 # Создание диаграммы БД в SQL
 ![image](https://user-images.githubusercontent.com/125022706/222655936-0694fef6-6238-4ef1-b329-d8bbe280a06e.png)
-## Практический день 3
+
+<h3 align="center">Практический день 3</h3>
+
 # Формирование [доски с задачами](https://github.com/users/x1ANbtw/projects/2)
 ![image](https://user-images.githubusercontent.com/125022706/224269910-52e67109-9be3-4d0b-a5a5-94dc2d2af6a6.png)
