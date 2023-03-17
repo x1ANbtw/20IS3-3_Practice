@@ -13,17 +13,19 @@
 
 [Задание](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/tree/main/BackendAPI) и [скриншоты](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/tree/main/ScreenShots) к нему
 
-![MainMenu](https://user-images.githubusercontent.com/125022706/224268261-1aaa2fd9-01e4-4823-9719-6f9a300e87bb.jpg)
-![GetByIndex](https://user-images.githubusercontent.com/125022706/224268450-73f20d0c-b7a7-4d51-bfba-c0fa8d677795.jpg)
-![GetByName](https://user-images.githubusercontent.com/125022706/224268462-9128be5d-9342-446e-80c4-6e057b76e5f5.jpg)
-![GetAll(1)](https://user-images.githubusercontent.com/125022706/224268479-b2018e5b-2f29-478e-910d-17e04803f00b.jpg)
-![GetAll(-1)](https://user-images.githubusercontent.com/125022706/224268499-6681c483-e897-4be9-b6ac-71bbf78bb864.jpg)
-![GetAll(null)](https://user-images.githubusercontent.com/125022706/224268507-32b1ddca-b5a2-4f96-845d-077f37fb8102.jpg)
-![Add](https://user-images.githubusercontent.com/125022706/224268539-d0d70d95-fb68-42b5-810c-dfcbc56167d7.jpg)
-![Update(10, SuperCool)_Succes](https://user-images.githubusercontent.com/125022706/224268565-aca5b6d2-0e32-44f1-84da-cfb41b765b7f.jpg)
-![Update(14, SuperCool)_Error(more_than_count)](https://user-images.githubusercontent.com/125022706/224268577-c6811a20-cda6-4deb-85a0-d617d2b3b5cc.jpg)
-![RemoveAt(10)_Succes](https://user-images.githubusercontent.com/125022706/224268593-63b382bf-8a10-4bab-a38f-972f2c01cefd.jpg)
-![RemoveAt(14)_Error(more_than_count)](https://user-images.githubusercontent.com/125022706/224268601-28d828df-e1a7-4f6e-a5dd-ba10d00c2ff9.jpg)
+![MainMenu](https:/![GetByName](https://user-images.githubusercontent.com/125022706/225922908-367edde6-6018-40a6-bcb4-29372d7fb7c1.jpg)
+/user-images.githubusercontent.com/125022706/225922827-4fe5a245-3f2f-4880-8596-3e16cb8d6ad2.jpg)
+![GetByIndex](https://user-images.githubusercontent.com/125022706/225922878-6cf23f12-ef1a-4285-81f4-4a9c44130af0.jpg)
+![GetAll(1)](https://user-images.githubusercontent.com/125022706/225922950-70fa8e6e-f875-4da9-a72d-c2179e80436c.jpg)
+![GetAll(-1)](https://user-images.githubusercontent.com/125022706/225922958-78112b41-acca-4b37-b218-a25e52b362e1.jpg)
+![GetAll(null)](https://user-images.githubusercontent.com/125022706/225922960-2a3e6bda-0705-4f43-8098-28b87192c372.jpg)
+![Add](https://user-images.githubusercontent.com/125022706/225923210-02542479-ff09-40b8-bd39-1f1059ce9900.jpg)
+![Update(10, SuperCool)_Succes](https://user-images.githubusercontent.com/125022706/225923293-bfbc9dfa-1837-4ef9-a8c4-8ca0c4fb93fb.jpg)
+![Update(14, SuperCool)_Error(more_than_count)](https://user-images.githubusercontent.com/125022706/225923327-fae39490-fe53-43ed-a501-4c4bce9fa1b8.jpg)
+![RemoveAt(10)_Succes](https://user-images.githubusercontent.com/125022706/225923473-7572b569-5548-4da8-ade4-cf297f3f5ef4.jpg)
+![RemoveAt(14)_Error(more_than_count)](https://user-images.githubusercontent.com/125022706/225923517-09116279-efb4-4273-9f5b-5fe9c1ea0529.jpg)
+
+
 
 <h3 align="center">Практический день 2</h3>
 
