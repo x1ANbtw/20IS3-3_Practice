@@ -21,33 +21,43 @@
 ![MainMenu](https://user-images.githubusercontent.com/125022706/225925050-a274f09c-30ff-4d45-a468-df0e4d46c5a4.jpg)
 
 <h3>Получение данных по Id</h3>
+
 ![GetByIndex](https://user-images.githubusercontent.com/125022706/225922878-6cf23f12-ef1a-4285-81f4-4a9c44130af0.jpg)
 
-Получение данных по названию
+<h3>Получение данных по названию</h3>
+
 ![GetByName](https://user-images.githubusercontent.com/125022706/225923745-572d5232-dc3f-494d-a495-15d13a8f4971.jpg)
 
-Вывод исходного списка
+<h3>Вывод исходного списка</h3>
+
 ![GetAll(null)](https://user-images.githubusercontent.com/125022706/225922960-2a3e6bda-0705-4f43-8098-28b87192c372.jpg)
 
-Вывод списка по возрастанию
+<h3>Вывод списка по возрастанию</h3>
+
 ![GetAll(1)](https://user-images.githubusercontent.com/125022706/225922950-70fa8e6e-f875-4da9-a72d-c2179e80436c.jpg)
 
-Вывод списка по убыванию
+<h3>Вывод списка по убыванию</h3>
+
 ![GetAll(-1)](https://user-images.githubusercontent.com/125022706/225922958-78112b41-acca-4b37-b218-a25e52b362e1.jpg)
 
-Добавление записи
+<h3>Добавление записи</h3>
+
 ![Add](https://user-images.githubusercontent.com/125022706/225923210-02542479-ff09-40b8-bd39-1f1059ce9900.jpg)
 
-Обновление данных - успех
+<h3>Обновление данных - успех</h3>
+
 ![Update(10, SuperCool)_Succes](https://user-images.githubusercontent.com/125022706/225923293-bfbc9dfa-1837-4ef9-a8c4-8ca0c4fb93fb.jpg)
 
-Обновление данных - ошибка
+<h3>Обновление данных - ошибка</h3>
+
 ![Update(14, SuperCool)_Error(more_than_count)](https://user-images.githubusercontent.com/125022706/225923327-fae39490-fe53-43ed-a501-4c4bce9fa1b8.jpg)
 
-Удаление данных - успех
+<h3>Удаление данных - успех</h3>
+
 ![RemoveAt(10)_Succes](https://user-images.githubusercontent.com/125022706/225923473-7572b569-5548-4da8-ade4-cf297f3f5ef4.jpg)
 
-Удаление данных - ошибка
+<h3>Удаление данных - ошибка</h3>
+
 ![RemoveAt(14)_Error(more_than_count)](https://user-images.githubusercontent.com/125022706/225923517-09116279-efb4-4273-9f5b-5fe9c1ea0529.jpg)
 
 <h2 align="center">Задание 2</h2>
