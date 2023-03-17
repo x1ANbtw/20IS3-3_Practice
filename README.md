@@ -10,9 +10,9 @@
 
 День 3: [task 4](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/blob/main/README.md#%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D0%B4%D0%B5%D0%BD%D1%8C-3:~:text=%D0%91%D0%94%20%D0%B2%20SQL-,%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C%203,-%D0%A4%D0%BE%D1%80%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%BE%D1%81%D0%BA%D0%B8%20%D1%81)
 
-<h3 align="center">Практический день 1</h3>
+<h1 align="center">Практический день 1</h1>
 
-<h1 align="center">Задание 1</h1>
+<h3 align="center">Задание 1</h3>
 
 [Задание 1](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/tree/main/BackendAPI) и [скриншоты](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/tree/main/ScreenShots) к нему
 
@@ -28,20 +28,20 @@
 ![RemoveAt(10)_Succes](https://user-images.githubusercontent.com/125022706/225923473-7572b569-5548-4da8-ade4-cf297f3f5ef4.jpg)
 ![RemoveAt(14)_Error(more_than_count)](https://user-images.githubusercontent.com/125022706/225923517-09116279-efb4-4273-9f5b-5fe9c1ea0529.jpg)
 
-<h1 align="center">Задание 2</h1>
+<h2 align="center">Задание 2</h2>
 
 [Задание 2](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/tree/main/BackendAPI%20v2.0) и [скриншоты](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/tree/main/screens%202.0) к нему
 
 
 
-<h3 align="center">Практический день 2</h3>
+<h1 align="center">Практический день 2</h1>
 
 # Визуализация БД
 ![image](https://user-images.githubusercontent.com/125022706/222664049-1e7bc556-cd7d-4bbc-91fd-3a05ba661602.png)
 # Создание диаграммы БД в SQL
 ![image](https://user-images.githubusercontent.com/125022706/222655936-0694fef6-6238-4ef1-b329-d8bbe280a06e.png)
 
-<h3 align="center">Практический день 3</h3>
+<h1 align="center">Практический день 3</h1>
 
 # Формирование [доски с задачами](https://github.com/users/x1ANbtw/projects/2)
 ![image](https://user-images.githubusercontent.com/125022706/224269910-52e67109-9be3-4d0b-a5a5-94dc2d2af6a6.png)
