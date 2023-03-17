@@ -13,7 +13,7 @@
 <h3 align="center">Практический день 1</h3>
 
 [Задание](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/tree/main/BackendAPI) и [скриншоты](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/tree/main/ScreenShots) к нему
-![MainMenu](https:/![GetByName](https://user-images.githubusercontent.com/125022706/225922908-367edde6-6018-40a6-bcb4-29372d7fb7c1.jpg)
+![MainMenu](https://user-images.githubusercontent.com/125022706/225925050-a274f09c-30ff-4d45-a468-df0e4d46c5a4.jpg)
 ![GetByIndex](https://user-images.githubusercontent.com/125022706/225922878-6cf23f12-ef1a-4285-81f4-4a9c44130af0.jpg)
 ![GetByName](https://user-images.githubusercontent.com/125022706/225923745-572d5232-dc3f-494d-a495-15d13a8f4971.jpg)
 ![GetAll(1)](https://user-images.githubusercontent.com/125022706/225922950-70fa8e6e-f875-4da9-a72d-c2179e80436c.jpg)
