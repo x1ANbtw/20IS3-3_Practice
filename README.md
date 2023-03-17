@@ -12,11 +12,11 @@
 
 <h1 align="center">Практический день 1</h1>
 
-<h3 align="center">Задание 1</h3>
+<h2 align="center">Задание 1</h2>
 
 [Задание 1](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/tree/main/BackendAPI) и [скриншоты](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/tree/main/ScreenShots) к нему
 
-Главное Меню приложения
+<h3>Главное Меню приложения
 ![MainMenu](https://user-images.githubusercontent.com/125022706/225925050-a274f09c-30ff-4d45-a468-df0e4d46c5a4.jpg)
 
 Получение данных по Id
