@@ -139,6 +139,7 @@
 <h1 align="center">Практический день 3</h1>
 
 # Формирование [доски с задачами](https://github.com/users/x1ANbtw/projects/2)
+![image](https://user-images.githubusercontent.com/125022706/225937868-c1527800-f20d-4fc1-8bdf-68a292299431.png)
 
 
 
