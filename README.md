@@ -64,21 +64,68 @@
 
 [Задание 2](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/tree/main/BackendAPI%20v2.0) и [скриншоты](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/tree/main/screens%202.0) к нему
 
+<h3>Главное Меню приложения</h3>
+
 ![MainMenu v2 0](https://user-images.githubusercontent.com/125022706/225927543-d3c40230-9f15-43ad-89e7-863aeb3ed1d1.jpg)
+
+<h3>Получение всех записей</h3>
+
 ![GetAll v2 0](https://user-images.githubusercontent.com/125022706/225927658-e45b6247-7f8a-44ac-93b5-8621d45efdd9.jpg)
+
+<h3>Получение записи по Id - успех</h3>
+
 ![GetByID v2 0(success)](https://user-images.githubusercontent.com/125022706/225927693-3ff22435-eea3-42bd-abbf-ccb3818d1b43.jpg)
+
+<h3>Получение записи по Id - ошибка</h3>
+
 ![GetByID v2 0(error)](https://user-images.githubusercontent.com/125022706/225927713-366b5ea6-e27d-4ba0-b1fc-569c4f8c3987.jpg)
+
+<h3>Получение записи по городу - успех</h3>
+
 ![GetByCity v2 0(success)](https://user-images.githubusercontent.com/125022706/225927727-4fd74f30-d18c-4748-87bf-4e48f816faea.jpg)
+
+<h3>Получение записи по городу - ошибка</h3>
+
 ![GetByCity v2 0(error)](https://user-images.githubusercontent.com/125022706/225927746-df0c0c9b-0ea1-449a-ac80-bd0c3eef070e.jpg)
+
+<h3>Добавление записи</h3>
+
 ![Add v2 0](https://user-images.githubusercontent.com/125022706/225927800-5eb98f05-a396-41dc-9e76-05a927927c12.jpg)
+
+<h3>Результат добавления - успех</h3>
+
 ![Add v2 0 (success)](https://user-images.githubusercontent.com/125022706/225927816-dd7f4c10-b586-4e10-8176-885d681a72e1.jpg)
+
+<h3>Результат повторного добавления - ошибка</h3>
+
 ![Add v2 0 (error)](https://user-images.githubusercontent.com/125022706/225927839-09c1a521-a708-46eb-907f-0a63b766c098.jpg)
+
+<h3>Обновление записи</h3>
+
 ![Update v2 0](https://user-images.githubusercontent.com/125022706/225927896-28f52ab6-5255-4220-b71b-3adf5f36104e.jpg)
+
+<h3>Результат обновления - успех</h3>
+
 ![Update v2 0(success)](https://user-images.githubusercontent.com/125022706/225927902-f90d832a-0156-43b7-b4df-7fc41b9e6ed0.jpg)
+
+<h3>Обновление записи с некорректным Id</h3>
+
 ![Update v2 0 with incorrect id](https://user-images.githubusercontent.com/125022706/225927920-ed2df980-94fe-4e8f-bcb2-8dbd48f92e2d.jpg)
+
+<h3>Результат обновления - ошибка</h3>
+
 ![Update v2 0 with incorrect id (error)](https://user-images.githubusercontent.com/125022706/225927930-af2272a6-7c16-4110-b61d-ea40da1dbff9.jpg)
+
+<h3>Удаление записи - успех</h3>
+
 ![Delete v2 0(success)](https://user-images.githubusercontent.com/125022706/225928009-88fc5d6d-4fc7-4458-a578-6e9f0333fe34.jpg)
+
+<h3>Повторное удаление записи - ошибка</h3>
+
 ![Delete v2 0(error)](https://user-images.githubusercontent.com/125022706/225928027-c3f702db-a210-48a4-9a22-0ad17542bd9e.jpg)
+
+<h3>Удаление записи - ошибка (значение поля Id меньше 0)</h3>
+
 ![Delete v2 0(error (id less than 0))](https://user-images.githubusercontent.com/125022706/225928042-38bfc8c1-bb17-415c-865c-91fa660c423d.jpg)
 
 
