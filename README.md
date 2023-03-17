@@ -12,7 +12,10 @@
 
 <h3 align="center">Практический день 1</h3>
 
-[Задание](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/tree/main/BackendAPI) и [скриншоты](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/tree/main/ScreenShots) к нему
+<h1 align="center">Задание 1</h1>
+
+[Задание 1](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/tree/main/BackendAPI) и [скриншоты](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/tree/main/ScreenShots) к нему
+
 ![MainMenu](https://user-images.githubusercontent.com/125022706/225925050-a274f09c-30ff-4d45-a468-df0e4d46c5a4.jpg)
 ![GetByIndex](https://user-images.githubusercontent.com/125022706/225922878-6cf23f12-ef1a-4285-81f4-4a9c44130af0.jpg)
 ![GetByName](https://user-images.githubusercontent.com/125022706/225923745-572d5232-dc3f-494d-a495-15d13a8f4971.jpg)
@@ -24,6 +27,10 @@
 ![Update(14, SuperCool)_Error(more_than_count)](https://user-images.githubusercontent.com/125022706/225923327-fae39490-fe53-43ed-a501-4c4bce9fa1b8.jpg)
 ![RemoveAt(10)_Succes](https://user-images.githubusercontent.com/125022706/225923473-7572b569-5548-4da8-ade4-cf297f3f5ef4.jpg)
 ![RemoveAt(14)_Error(more_than_count)](https://user-images.githubusercontent.com/125022706/225923517-09116279-efb4-4273-9f5b-5fe9c1ea0529.jpg)
+
+<h1 align="center">Задание 2</h1>
+
+[Задание 2](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/tree/main/BackendAPI%20v2.0) и [скриншоты](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/tree/main/screens%202.0) к нему
 
 
 
