@@ -16,10 +16,11 @@
 
 [Задание 1](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/tree/main/BackendAPI) и [скриншоты](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/tree/main/ScreenShots) к нему
 
-<h3>Главное Меню приложения
+<h3>Главное Меню приложения</h3>
+
 ![MainMenu](https://user-images.githubusercontent.com/125022706/225925050-a274f09c-30ff-4d45-a468-df0e4d46c5a4.jpg)
 
-Получение данных по Id
+<h3>Получение данных по Id</h3>
 ![GetByIndex](https://user-images.githubusercontent.com/125022706/225922878-6cf23f12-ef1a-4285-81f4-4a9c44130af0.jpg)
 
 Получение данных по названию
