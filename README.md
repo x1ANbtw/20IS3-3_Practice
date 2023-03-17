@@ -139,10 +139,6 @@
 <h1 align="center">Практический день 3</h1>
 
 # Формирование [доски с задачами](https://github.com/users/x1ANbtw/projects/2)
-![image](https://user-images.githubusercontent.com/125022706/224269910-52e67109-9be3-4d0b-a5a5-94dc2d2af6a6.png)
 
-<p align="center">
 
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
-
-</p>
+<p align="center"><img width="460" height="300" src="https://y.yarn.co/3bcd783c-6935-4485-9273-267e59af33a3_text.gif"></p>
