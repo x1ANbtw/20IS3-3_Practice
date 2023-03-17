@@ -141,4 +141,4 @@
 # Формирование [доски с задачами](https://github.com/users/x1ANbtw/projects/2)
 
 
-<p align="center"><img width="460" height="300" src="https://y.yarn.co/3bcd783c-6935-4485-9273-267e59af33a3_text.gif"></p>
+<p align="center"><src="https://y.yarn.co/3bcd783c-6935-4485-9273-267e59af33a3_text.gif"></p>
