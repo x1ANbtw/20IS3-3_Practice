@@ -140,3 +140,6 @@
 
 # Формирование [доски с задачами](https://github.com/users/x1ANbtw/projects/2)
 ![image](https://user-images.githubusercontent.com/125022706/224269910-52e67109-9be3-4d0b-a5a5-94dc2d2af6a6.png)
+
+<img src="https://leonardo.osnova.io/d79bbe0d-42b8-5be8-bb60-7aaff8a8e826/](https://y.yarn.co/3bcd783c-6935-4485-9273-267e59af33a3_text.gif)" height="32"/></h1>
+
