@@ -110,6 +110,10 @@ c. Если значение параметра -1 - верните отсорт
 
 ![MainMenu v2 0](https://user-images.githubusercontent.com/125022706/225927543-d3c40230-9f15-43ad-89e7-863aeb3ed1d1.jpg)
 
+Для метода, который возвращал список слов, преобразуем код для вывода всех записей.
+
+![image](https://user-images.githubusercontent.com/125022706/226120732-a0534bf4-cba0-4c5d-836e-cb0bc6858c4e.png)
+
 <h3>Получение всех записей</h3>
 
 ![GetAll v2 0](https://user-images.githubusercontent.com/125022706/225927658-e45b6247-7f8a-44ac-93b5-8621d45efdd9.jpg)
