@@ -173,7 +173,7 @@ c. Если значение параметра -1 - верните отсорт
 
 ![Delete v2 0(success)](https://user-images.githubusercontent.com/125022706/225928009-88fc5d6d-4fc7-4458-a578-6e9f0333fe34.jpg)
 
-<h3>Повторное удаление записи - ошибка</h3>
+<h3>Удаление записи с неверным индексом - ошибка</h3>
 
 ![Delete v2 0(error)](https://user-images.githubusercontent.com/125022706/225928027-c3f702db-a210-48a4-9a22-0ad17542bd9e.jpg)
 
