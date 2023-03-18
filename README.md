@@ -20,21 +20,55 @@
 
 ![MainMenu](https://user-images.githubusercontent.com/125022706/225925050-a274f09c-30ff-4d45-a468-df0e4d46c5a4.jpg)
 
+1. Добавьте проверку для всех методов, у которых указывается параметр
+(Например не допускать указание отрицательного индекса)
+
+![image](https://user-images.githubusercontent.com/125022706/226119213-a2b00aad-fcc7-4939-bfd9-62eb30d0abba.png)
+
+![image](https://user-images.githubusercontent.com/125022706/226119235-f4f89dd2-c60d-481e-9a55-3d84e035aac6.png)
+
+![image](https://user-images.githubusercontent.com/125022706/226119249-7cb07a18-e749-449a-8914-ef56967f8bfc.png)
+
+2. Добавляем метод получения данных по указанному индексу.
+
+![image](https://user-images.githubusercontent.com/125022706/226118873-619801f1-1e14-4d36-8860-d5977633105f.png)
+
 <h3>Получение данных по Id</h3>
 
 ![GetByIndex](https://user-images.githubusercontent.com/125022706/225922878-6cf23f12-ef1a-4285-81f4-4a9c44130af0.jpg)
 
-<h3>Получение данных по названию</h3>
+3. Добавляем метод получения данных по указываемому имени.
+
+![image](https://user-images.githubusercontent.com/125022706/226118935-e4386d2f-0f84-47d6-b5d1-eb8745cf6697.png)
+
+<h3>Получение данных по имени</h3>
 
 ![GetByName](https://user-images.githubusercontent.com/125022706/225923745-572d5232-dc3f-494d-a495-15d13a8f4971.jpg)
+
+4. Добавьте для метода получения всех записей (GetAll) необязательный
+параметр , который вернёт отсортированный список. Для данного метода
+включите необязательный параметр strategy.
+
+![image](https://user-images.githubusercontent.com/125022706/226119052-ccbf1371-2fd3-469e-bdc6-28b0c12cb0d1.png)
+
+Работа метода должна быть
+следующая:
+
+a. Если значение параметра null - верните список таким, какой он есть.
 
 <h3>Вывод исходного списка</h3>
 
 ![GetAll(null)](https://user-images.githubusercontent.com/125022706/225922960-2a3e6bda-0705-4f43-8098-28b87192c372.jpg)
 
+b. Если значение параметра 1 - верните отсортированный список по
+возрастанию.
+
 <h3>Вывод списка по возрастанию</h3>
 
 ![GetAll(1)](https://user-images.githubusercontent.com/125022706/225922950-70fa8e6e-f875-4da9-a72d-c2179e80436c.jpg)
+
+c. Если значение параметра -1 - верните отсортированный список по
+убыванию.
 
 <h3>Вывод списка по убыванию</h3>
 
@@ -80,6 +114,13 @@
 
 ![GetByID v2 0(error)](https://user-images.githubusercontent.com/125022706/225927713-366b5ea6-e27d-4ba0-b1fc-569c4f8c3987.jpg)
 
+2. Добавьте метод, который позволит определить наличие среди всех записей
+указываемый город. Если такая запись есть - Вернуть сообщение “Запись с
+указанным городом имеется в нашем списке”, иначе вернуть сообщение
+“Запись с указанным городом не обнаружена”
+
+![image](https://user-images.githubusercontent.com/125022706/226119450-5d69c6ec-ca63-4405-a398-4e24db5fc2ba.png)
+
 <h3>Получение записи по городу - успех</h3>
 
 ![GetByCity v2 0(success)](https://user-images.githubusercontent.com/125022706/225927727-4fd74f30-d18c-4748-87bf-4e48f816faea.jpg)
@@ -123,6 +164,12 @@
 <h3>Повторное удаление записи - ошибка</h3>
 
 ![Delete v2 0(error)](https://user-images.githubusercontent.com/125022706/225928027-c3f702db-a210-48a4-9a22-0ad17542bd9e.jpg)
+
+1. Добавьте проверку для методов добавления и обновления, которая вернёт
+ошибку выполнения (BadRequest), если у добавляемой/удаляемой записи
+значение поля Id меньше 0.
+
+![image](https://user-images.githubusercontent.com/125022706/226119385-cd37f625-ada4-4124-a43b-c6fd7bed0152.png)
 
 <h3>Удаление записи - ошибка (значение поля Id меньше 0)</h3>
 
