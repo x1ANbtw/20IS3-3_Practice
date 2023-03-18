@@ -98,6 +98,14 @@ c. Если значение параметра -1 - верните отсорт
 
 [Задание 2](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/tree/main/BackendAPI%20v2.0) и [скриншоты](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/tree/main/screens%202.0) к нему
 
+Создание публичного класса с информацией о погоде.
+
+![image](https://user-images.githubusercontent.com/125022706/226120213-4391f625-fe87-4633-ad2d-5d5aab03dd77.png)
+
+Создание тестового набора данных для будущих изменений данного контроллера.
+
+![image](https://user-images.githubusercontent.com/125022706/226120551-0b6035f9-4f83-46be-80fa-7caab4a3a962.png)
+
 <h3>Главное Меню приложения</h3>
 
 ![MainMenu v2 0](https://user-images.githubusercontent.com/125022706/225927543-d3c40230-9f15-43ad-89e7-863aeb3ed1d1.jpg)
