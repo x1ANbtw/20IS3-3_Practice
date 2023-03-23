@@ -10,6 +10,8 @@
 
 День 3: [task 4](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/blob/main/README.md#%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D0%B4%D0%B5%D0%BD%D1%8C-3:~:text=%D0%91%D0%94%20%D0%B2%20SQL-,%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C%203,-%D0%A4%D0%BE%D1%80%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%BE%D1%81%D0%BA%D0%B8%20%D1%81)
 
+День 4: [task 5]()
+
 <h1 align="center">Практический день 1</h1>
 
 <h2 align="center">Задание 1</h2>
@@ -199,6 +201,20 @@ c. Если значение параметра -1 - верните отсорт
 
 # Формирование [доски с задачами](https://github.com/users/x1ANbtw/projects/2)
 ![image](https://user-images.githubusercontent.com/125022706/225937868-c1527800-f20d-4fc1-8bdf-68a292299431.png)
+
+<h1 align="center">Практический день 4</h1>
+
+#Миграция таблиц базы данных в приложение
+
+В консоли диспетчера пакетов прописываем следющую команду:
+
+![image](https://user-images.githubusercontent.com/125022706/227326841-3125de33-d794-4c1a-a3ff-ccc0f4a4e935.png)
+
+Модели (таблицы) из базы данных сформировались!
+
+![image](https://user-images.githubusercontent.com/125022706/227327878-b7a11270-04f2-4f4b-a11b-af88a31925c6.png)
+
+![image](https://user-images.githubusercontent.com/125022706/227328087-35f0e7f6-7b12-4a9e-bfb4-701c04e9a603.png)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
