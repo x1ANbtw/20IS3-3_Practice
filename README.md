@@ -238,18 +238,17 @@ c. Если значение параметра -1 - верните отсорт
 
 ![image](https://user-images.githubusercontent.com/125022706/229308003-d3a5cce7-1ad8-4228-a1d2-6da1a2e0346f.png)
 
+Меняем имя БД в строке подключения
+
 ![image](https://user-images.githubusercontent.com/125022706/229308069-5bd47b0d-202f-40c1-9d35-a0ca34159fbc.png)
 
 ![image](https://user-images.githubusercontent.com/125022706/229308053-947cc471-f50b-4787-b175-92d7103b0202.png)
 
 ![image](https://user-images.githubusercontent.com/125022706/229308112-48899881-5580-447a-9929-638de69edd86.png)
 
+База данных сформировалась в SQL Server Management Studio
+
 ![image](https://user-images.githubusercontent.com/125022706/229308159-eb27c2e3-d52d-4974-8550-9763a3278a3a.png)
-
-
-
-
-
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
