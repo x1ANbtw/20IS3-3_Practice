@@ -252,6 +252,29 @@ c. Если значение параметра -1 - верните отсорт
 
 ![image](https://user-images.githubusercontent.com/125022706/229308159-eb27c2e3-d52d-4974-8550-9763a3278a3a.png)
 
+# [Задание7]
+
+Добавляем .editorconfig в проект
+
+![image](https://user-images.githubusercontent.com/125022706/230571461-1db8d429-adbb-42ec-9426-2dd0c4fc5b3d.png)
+
+дд
+
+![image](https://user-images.githubusercontent.com/125022706/230571645-f3967439-cd96-4ab7-aeaf-5569404df97f.png)
+
+![image](https://user-images.githubusercontent.com/125022706/230571703-667d427c-4ada-4f29-8ef2-0feabcfcfd23.png)
+
+![image](https://user-images.githubusercontent.com/125022706/230571843-d2374cbf-c334-43ec-9bf4-f7605b5b0de5.png)
+
+![image](https://user-images.githubusercontent.com/125022706/230572164-d79bf332-0960-40ab-8bec-380b47511d60.png)
+
+![image](https://user-images.githubusercontent.com/125022706/230572215-8c38dd2e-42aa-438c-a42b-ccf6cb86e1ee.png)
+
+![image](https://user-images.githubusercontent.com/125022706/230572084-c18bd6c6-b53f-4ee1-aca5-bb83cd2493d6.png)
+
+
+
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![image](https://y.yarn.co/3bcd783c-6935-4485-9273-267e59af33a3_text.gif)
