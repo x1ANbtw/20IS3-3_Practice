@@ -14,6 +14,8 @@
 
 День 5: [task 6](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev#:~:text=User%27%D0%B0%20%D0%BF%D0%BE%20id-,%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C%205,-%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B56)
 
+День 6: [task 7]()
+
 <h1 align="center">Практический день 1</h1>
 
 <h2 align="center">Задание 1</h2>
