@@ -262,8 +262,6 @@ c. Если значение параметра -1 - верните отсорт
 
 ![image](https://user-images.githubusercontent.com/125022706/230571645-f3967439-cd96-4ab7-aeaf-5569404df97f.png)
 
-![image](https://user-images.githubusercontent.com/125022706/230571703-667d427c-4ada-4f29-8ef2-0feabcfcfd23.png)
-
 ![image](https://user-images.githubusercontent.com/125022706/230571843-d2374cbf-c334-43ec-9bf4-f7605b5b0de5.png)
 
 ![image](https://user-images.githubusercontent.com/125022706/230572164-d79bf332-0960-40ab-8bec-380b47511d60.png)
