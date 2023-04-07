@@ -288,6 +288,8 @@ c. Если значение параметра -1 - верните отсорт
 
 ![image](https://user-images.githubusercontent.com/125022706/230573602-7c6138a0-93d9-43a1-980a-ef34f2a8495f.png)
 
+GitHub Actions
+
 
 
 
