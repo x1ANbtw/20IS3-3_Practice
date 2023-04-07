@@ -260,7 +260,7 @@ c. Если значение параметра -1 - верните отсорт
 
 ![image](https://user-images.githubusercontent.com/125022706/230571461-1db8d429-adbb-42ec-9426-2dd0c4fc5b3d.png)
 
-дд
+Настройки .editorconfig
 
 ![image](https://user-images.githubusercontent.com/125022706/230571645-f3967439-cd96-4ab7-aeaf-5569404df97f.png)
 
@@ -272,13 +272,17 @@ c. Если значение параметра -1 - верните отсорт
 
 ![image](https://user-images.githubusercontent.com/125022706/230572084-c18bd6c6-b53f-4ee1-aca5-bb83cd2493d6.png)
 
-работа в консоли
+# Работа в консоли
 
 ![image](https://user-images.githubusercontent.com/125022706/230572790-94e503c2-25e8-46c3-a08d-5ce2fcf07583.png)
 
 ![image](https://user-images.githubusercontent.com/125022706/230572859-ab7b35ff-39d1-49ac-b89b-02463cd92b4b.png)
 
+Запуск консольного проекта через dotnet
+
 ![image](https://user-images.githubusercontent.com/125022706/230573003-344b8d4c-9fe0-459c-bc21-73cd6e47ecfe.png)
+
+Работа с format
 
 ![image](https://user-images.githubusercontent.com/125022706/230573602-7c6138a0-93d9-43a1-980a-ef34f2a8495f.png)
 
