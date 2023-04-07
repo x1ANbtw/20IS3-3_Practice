@@ -272,6 +272,16 @@ c. Если значение параметра -1 - верните отсорт
 
 ![image](https://user-images.githubusercontent.com/125022706/230572084-c18bd6c6-b53f-4ee1-aca5-bb83cd2493d6.png)
 
+работа в консоли
+
+![image](https://user-images.githubusercontent.com/125022706/230572790-94e503c2-25e8-46c3-a08d-5ce2fcf07583.png)
+
+![image](https://user-images.githubusercontent.com/125022706/230572859-ab7b35ff-39d1-49ac-b89b-02463cd92b4b.png)
+
+![image](https://user-images.githubusercontent.com/125022706/230573003-344b8d4c-9fe0-459c-bc21-73cd6e47ecfe.png)
+
+
+
 
 
 
