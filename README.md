@@ -252,6 +252,8 @@ c. Если значение параметра -1 - верните отсорт
 
 ![image](https://user-images.githubusercontent.com/125022706/229308159-eb27c2e3-d52d-4974-8550-9763a3278a3a.png)
 
+<h1 align="center">Практический день 6</h1>
+
 # [Задание7]
 
 Добавляем .editorconfig в проект
