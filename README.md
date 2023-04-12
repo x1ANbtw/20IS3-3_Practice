@@ -296,7 +296,7 @@ c. Если значение параметра -1 - верните отсорт
 
 Сборка GitHub Action
 
-![image](https://user-images.githubusercontent.com/125022706/231568195-65f4f7fa-e101-4901-b952-d8dd713f4459.png)
+![image](https://user-images.githubusercontent.com/125022706/231568567-59128d4d-ecb3-4261-b823-7a5597419ec0.png)
 
 Проверка работы GitHub Actions
 
