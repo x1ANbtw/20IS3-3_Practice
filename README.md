@@ -256,7 +256,7 @@ c. Если значение параметра -1 - верните отсорт
 
 <h1 align="center">Практический день 6</h1>
 
-# [Задание7]
+# [Задание7](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/tree/main/Online_Market_App%207)
 
 Добавляем .editorconfig в проект
 
