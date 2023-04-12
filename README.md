@@ -294,6 +294,10 @@ c. Если значение параметра -1 - верните отсорт
 
 ![image](https://user-images.githubusercontent.com/125022706/231566120-1285759e-63a2-4310-97ce-574fced213f2.png)
 
+Сборка GitHub Action
+
+![image](https://user-images.githubusercontent.com/125022706/231568195-65f4f7fa-e101-4901-b952-d8dd713f4459.png)
+
 Проверка работы GitHub Actions
 
 ![image](https://user-images.githubusercontent.com/125022706/231566417-0aea5c7d-490d-4488-9765-59d71601e7ad.png)
