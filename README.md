@@ -323,7 +323,7 @@ c. Если значение параметра -1 - верните отсорт
 
 ![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/595ced06-b95d-4aec-889e-ee5fad6d505a)
 
-Добавление описания и пояснения к методу
+Добавление описания и пояснения к методу добавления пользователя
 
 ![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/591c6923-08c8-4af4-a9a7-eddd372570c7)
 
