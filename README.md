@@ -16,6 +16,8 @@
 
 День 6: [task 7](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev#:~:text=Server%20Management%20Studio-,%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C%206,-%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B57)
 
+День 7: [task 8](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev#:~:text=Server%20Management%20Studio-,%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C%206,-%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B57)
+
 <h1 align="center">Практический день 1</h1>
 
 <h2 align="center">Задание 1</h2>
@@ -301,6 +303,10 @@ c. Если значение параметра -1 - верните отсорт
 Проверка работы GitHub Actions
 
 ![image](https://user-images.githubusercontent.com/125022706/231566417-0aea5c7d-490d-4488-9765-59d71601e7ad.png)
+
+<h1 align="center">Практический день 7</h1>
+
+# [Задание8](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/tree/main/Online_Market_App%207)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
