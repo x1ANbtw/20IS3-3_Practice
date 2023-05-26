@@ -16,7 +16,7 @@
 
 День 6: [task 7](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev#:~:text=Server%20Management%20Studio-,%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C%206,-%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B57)
 
-День 7: [task 8](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev#:~:text=Server%20Management%20Studio-,%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C%206,-%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B57)
+День 7: [task 8](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/tree/main#:~:text=%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B%20GitHub%20Actions-,%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C%207,-%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B58)
 
 <h1 align="center">Практический день 1</h1>
 
@@ -317,7 +317,6 @@ c. Если значение параметра -1 - верните отсорт
 Подключение библиотеки Mapster к проекту
 
 ![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/67234f20-ec0d-44dd-b57a-bfecd7b7d0e2)
-
 
 Изменение метода Add в контроллере UserController
 
