@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BackendApi</name>
+    </assembly>
+    <members>
+        <member name="M:BackendApi.Controllers.UserController.GetAll">
+            <summary>
+            Получение данных по всем пользователям
+            </summary>
+        </member>
+        <member name="M:BackendApi.Controllers.UserController.GetById(System.Int32)">
+             <summary>
+             Получение данных по пользователю через id
+             </summary>
+             <remarks>
+             Пример запроса:
+            
+             Get /Todo
+             {
+             "userId" : "1",
+             }
+            
+             </remarks>
+        </member>
+        <member name="M:BackendApi.Controllers.UserController.Add(BackendApi.Contracts.User.CreateUserRequest)">
+             <summary>
+             Создание нового пользователя
+             </summary>
+             <remarks>
+             Пример запроса:
+            
+             POST /Todo
+             {
+             "login" : "user1",
+             "password" : "!Pa$$word123@",
+             "firstname" : "Иван",
+             "lastname" : "Иванов",
+             "phonenumber" : "89999999999"
+             "email" : "who@gmail.com"
+             "address" : "г.Москва, Тверская улица, дом 13"
+             "RoleID" : "1"
+             "IsDeleted" : "0"
+             }
+            
+             </remarks>
+             <param name="model">Пользователь</param>
+             <returns></returns>
+        </member>
+        <member name="M:BackendApi.Controllers.UserController.Update(BackendApi.Contracts.User.CreateUserRequest)">
+             <summary>
+             Обновление пользователя
+             </summary>
+             <remarks>
+             Пример запроса:
+            
+                 PUT /Todo
+                 {
+                     "login" : "user1",
+                     "password" : "!Pa$$word123@",
+                     "firstname" : "Иван",
+                     "lastname" : "Иванов",
+                     "phonenumber" : "89999999990"
+                     "email" : "who1@gmail.com"
+                     "address" : "г.Москва, Тверская улица, дом 14"
+                     "RoleID" : "1"
+                     "IsDeleted" : "0"
+                 }
+            
+             </remarks>
+             <param name="model">Пользователь</param>
+             <returns></returns>
+        </member>
+        <member name="M:BackendApi.Controllers.UserController.Delete(System.Int32)">
+             <summary>
+             Удаление записи по id
+             </summary>
+             <remarks>
+             Пример запроса:
+            
+             Delete /Todo
+             {
+             "userId" : "1",
+             }
+            
+             </remarks>
+        </member>
+    </members>
+</doc>
