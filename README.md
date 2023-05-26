@@ -308,6 +308,29 @@ c. Если значение параметра -1 - верните отсорт
 
 # [Задание8](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/tree/main/Online_Market_App%208)
 
+Изменение метода AddSwaggerGen в Program.cs
+
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/110d2dc2-1a74-4d68-a6ad-8c7821a8cf2b)
+
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/480c3ae2-5768-4abb-89fc-d0d3a2a223eb)
+
+Подключение библиотеки Mapster к проекту
+
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/67234f20-ec0d-44dd-b57a-bfecd7b7d0e2)
+
+
+Изменение метода Add в контроллере UserController
+
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/595ced06-b95d-4aec-889e-ee5fad6d505a)
+
+Добавление описания и пояснения к методу
+
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/591c6923-08c8-4af4-a9a7-eddd372570c7)
+
+Добавление описания и пояснения к остальным методам
+
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/432fd169-0ebb-43cd-ba38-e53451375dfe)
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![image](https://y.yarn.co/3bcd783c-6935-4485-9273-267e59af33a3_text.gif)
