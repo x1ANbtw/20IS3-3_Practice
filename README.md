@@ -330,6 +330,36 @@ c. Если значение параметра -1 - верните отсорт
 
 ![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/432fd169-0ebb-43cd-ba38-e53451375dfe)
 
+<h1 align="center">Практический день 8</h1>
+
+# [Задание9]()
+
+Добавляем папки решения и приводим решение к следующему виду:
+
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/cd406ffe-3fff-452b-9f7d-9727f47bb7d1)
+
+Добавляем класс UserServiceTest
+
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/6d76bcb0-cadf-46ed-b4ec-e1ba7c308e68)
+
+Подключение пакета Moq к проекту
+
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/c8b4bf0c-9e2f-4d66-b5a5-a42e22dd4ffd)
+
+Приводим конструктор класса к следующему виду:
+
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/3606a0f1-042b-466f-890e-b3eda075b849)
+
+Добавление проверки на null
+
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/c57da7ba-2dc0-43ac-957d-f8b3b0326f17)
+
+Прохождение тестов
+
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/e55268bc-c126-44fd-b9ef-d05ea2080ff6)
+
+
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![image](https://y.yarn.co/3bcd783c-6935-4485-9273-267e59af33a3_text.gif)
