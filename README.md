@@ -387,6 +387,13 @@ ArgumentNullException
 
 ![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/1a21192b-20ab-409e-8a07-7c0c15726978)
 
+Переделываем тестовый метод
+
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/5e2b7dc1-9fb8-4526-95bb-5c6ddeed7f17)
+
+Создаём метод, который будет выдавать комбинации с невалиднымиданными пользователей
+
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/eee74ada-9045-4ab0-8336-38ee7d6fd1fd)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
