@@ -18,6 +18,8 @@
 
 День 7: [task 8](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/tree/main#:~:text=%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B%20GitHub%20Actions-,%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C%207,-%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B58)
 
+День 8: [task 9]()
+
 <h1 align="center">Практический день 1</h1>
 
 <h2 align="center">Задание 1</h2>
@@ -332,7 +334,7 @@ c. Если значение параметра -1 - верните отсорт
 
 <h1 align="center">Практический день 8</h1>
 
-# [Задание9]()
+# [Задание9](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/tree/main/Online_Market_App%209)
 
 Добавляем папки решения и приводим решение к следующему виду:
 
