@@ -375,6 +375,19 @@ ArgumentNullException
 
 ![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/e65898eb-5468-41c3-8738-e5cecc3c3053)
 
+Проверяем работу валидации. Ожидаемо, произошла ошибка
+
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/16872cce-881e-434b-b7b5-7a7733eeee0e)
+
+Добавляем валидацию для имени в методе Create
+
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/354e3521-c60b-4c4d-8e22-c2b59f9d7761)
+
+Тесты проходят успешно
+
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/1a21192b-20ab-409e-8a07-7c0c15726978)
+
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![image](https://y.yarn.co/3bcd783c-6935-4485-9273-267e59af33a3_text.gif)
