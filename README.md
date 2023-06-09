@@ -403,6 +403,9 @@ ArgumentNullException
 
 ![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/ddcb5083-bd7f-4ff8-8814-1fadcfbf49e7)
 
+Тестирование через dotnet-cli
+
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/f35939c1-276a-4faa-8457-a318b1a57971)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
