@@ -419,6 +419,10 @@ ArgumentNullException
 
 ![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/5c2ef98f-c4f4-4812-ba82-6548ff0f3ae6)
 
+Подключение библиотеки Telegram.Bot
+
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/5f355932-9d87-4dc9-8b5d-c429ca232b24)
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
