@@ -395,6 +395,15 @@ ArgumentNullException
 
 ![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/eee74ada-9045-4ab0-8336-38ee7d6fd1fd)
 
+Прохождение тестов
+
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/182d35fe-2650-4c20-b92e-85b59953c851)
+
+Метод проверки успешного задания пользователя
+
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/ddcb5083-bd7f-4ff8-8814-1fadcfbf49e7)
+
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![image](https://y.yarn.co/3bcd783c-6935-4485-9273-267e59af33a3_text.gif)
