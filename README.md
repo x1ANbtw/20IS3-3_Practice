@@ -358,7 +358,54 @@ c. Если значение параметра -1 - верните отсорт
 
 ![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/e55268bc-c126-44fd-b9ef-d05ea2080ff6)
 
+Меняем метод Create в UserService
 
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/7b8f0d20-cc2d-4151-aa48-a2388a68d6dc)
+
+Добавим обработку на null с вызовом исключения throw new
+ArgumentNullException
+
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/5a8c0c9d-e77e-4ffc-ae3a-305454f114b3)
+
+Результат прохождения тестов
+
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/4f791962-0782-45c8-879e-741fef524f16)
+
+Проверка добавления пользователя с некорректными данными
+
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/e65898eb-5468-41c3-8738-e5cecc3c3053)
+
+Проверяем работу валидации. Ожидаемо, произошла ошибка
+
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/16872cce-881e-434b-b7b5-7a7733eeee0e)
+
+Добавляем валидацию для имени в методе Create
+
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/354e3521-c60b-4c4d-8e22-c2b59f9d7761)
+
+Тесты проходят успешно
+
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/1a21192b-20ab-409e-8a07-7c0c15726978)
+
+Переделываем тестовый метод
+
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/5e2b7dc1-9fb8-4526-95bb-5c6ddeed7f17)
+
+Создаём метод, который будет выдавать комбинации с невалиднымиданными пользователей
+
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/eee74ada-9045-4ab0-8336-38ee7d6fd1fd)
+
+Прохождение тестов
+
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/182d35fe-2650-4c20-b92e-85b59953c851)
+
+Метод проверки успешного задания пользователя
+
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/ddcb5083-bd7f-4ff8-8814-1fadcfbf49e7)
+
+Тестирование через dotnet-cli
+
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/f35939c1-276a-4faa-8457-a318b1a57971)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
