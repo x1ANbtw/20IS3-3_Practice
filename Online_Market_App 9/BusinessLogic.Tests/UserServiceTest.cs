@@ -24,6 +24,16 @@ namespace BusinessLogic.Tests
             service = new UserService(repositoryWrapperMoq.Object); 
         }
 
+        public static IEnumerable<object[]> GetIncorrectUsers()
+        {
+            return new List<object[]>
+            {
+                new object[] {new User() { Username = "Test", Password = "Test", FirstName = "Test", LastName = "Test", PhoneNumber = 999999999, Email = "Test", Addres = "Test", RoleId = 1, IsDeleted = false } },
+                new object[] {new User() { Username = "", Password = "", FirstName = "", LastName = "", PhoneNumber = 999999999, Email = "Test", Addres = "", RoleId = 1, IsDeleted = false } },
+                new object[] {new User() { Username = "Test", Password = "", FirstName = "", LastName = "", PhoneNumber = 999999999, Email = "Test", Addres = "", RoleId = 1, IsDeleted = false } },
+            };
+        }
+
         [Fact]
         public async Task CreateAsync_NullUser_ShouldThrowNullArgumentException()
         {
@@ -33,6 +43,47 @@ namespace BusinessLogic.Tests
             //assert
             Assert.IsType<ArgumentNullException>(ex);
             userRepositoryMoq.Verify(x => x.Create(It.IsAny<User>()), Times.Never());
+        }
+
+        [Theory]
+        [MemberData(nameof(GetIncorrectUsers))]
+        public async Task CreateAsyncNewUserShouldNotCreateNewUser(User user)
+        {
+            // arrange
+            var newUser = user;
+
+
+            // act
+            var ex = await Assert.ThrowsAnyAsync<ArgumentException>(() => service.Create(newUser));
+
+            // assert
+            userRepositoryMoq.Verify(x => x.Create(It.IsAny<User>()), Times.Never);
+            Assert.IsType<ArgumentException>(ex);
+        }
+
+        [Fact]
+        public async Task CreateAsyncNewUserShouldCreateNewUser()
+        {
+            // arrange
+            var newUser = new User()
+            {
+                Username = "Test",
+                Password = "TestPassword",
+                FirstName = "Test",
+                LastName = "Test",
+                PhoneNumber = 999999999,
+                Email = "Test",
+                Addres = "Test",
+                RoleId = 1,
+                IsDeleted = false
+            };
+
+
+            // act
+            await service.Create(newUser);
+
+            // assert
+            userRepositoryMoq.Verify(x => x.Create(It.IsAny<User>()), Times.Once);
         }
     }
 }
