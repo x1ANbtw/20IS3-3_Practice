@@ -18,6 +18,11 @@
 
 День 7: [task 8](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/tree/main#:~:text=%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B%20GitHub%20Actions-,%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C%207,-%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B58)
 
+День 8: [task 9](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/tree/main#:~:text=%D0%BA%20%D0%BE%D1%81%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%BC%20%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%B0%D0%BC-,%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C%208,-%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B59)
+
+
+День 9: [task 10]()
+
 <h1 align="center">Практический день 1</h1>
 
 <h2 align="center">Задание 1</h2>
@@ -332,7 +337,7 @@ c. Если значение параметра -1 - верните отсорт
 
 <h1 align="center">Практический день 8</h1>
 
-# [Задание9]()
+# [Задание9](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/tree/main/Online_Market_App%209)
 
 Добавляем папки решения и приводим решение к следующему виду:
 
@@ -406,6 +411,25 @@ ArgumentNullException
 Тестирование через dotnet-cli
 
 ![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/f35939c1-276a-4faa-8457-a318b1a57971)
+
+<h1 align="center">Практический день 9</h1>
+
+# [Задание10]()
+
+# Создание телеграм-бота для интернет-магазина
+
+Создание Консольного приложения (Майкрософт)
+
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/5c2ef98f-c4f4-4812-ba82-6548ff0f3ae6)
+
+Подключение библиотеки Telegram.Bot
+
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/5f355932-9d87-4dc9-8b5d-c429ca232b24)
+
+Проверка пакетов на установку
+
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/f7f87997-4e1c-422f-ac9b-640a0ce465b0)
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
