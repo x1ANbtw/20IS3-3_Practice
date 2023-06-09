@@ -358,7 +358,22 @@ c. Если значение параметра -1 - верните отсорт
 
 ![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/e55268bc-c126-44fd-b9ef-d05ea2080ff6)
 
+Меняем метод Create в UserService
 
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/7b8f0d20-cc2d-4151-aa48-a2388a68d6dc)
+
+Добавим обработку на null с вызовом исключения throw new
+ArgumentNullException
+
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/5a8c0c9d-e77e-4ffc-ae3a-305454f114b3)
+
+Результат прохождения тестов
+
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/4f791962-0782-45c8-879e-741fef524f16)
+
+Проверка добавления пользователя с некорректными данными
+
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/e65898eb-5468-41c3-8738-e5cecc3c3053)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
