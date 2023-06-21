@@ -472,8 +472,10 @@ ArgumentNullException
 
 # [Задание10(html)]()
 
+# Формирование веб-страниц
 
 ![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/72f36022-e47a-4e53-8097-623bcfd3a6fd)
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/2f4e8e7c-68a6-4f4f-ae22-e85af4ef5524)
 
 
 
