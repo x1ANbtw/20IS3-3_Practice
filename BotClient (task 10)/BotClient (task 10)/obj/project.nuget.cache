@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pRPxBRpR4btukR/qJg/+teic7JD3U3PSY3m2YdfNsZzPvsJTTOnjgHGGawmPA2wHHT4w2ZwezwZZwiATrtP+WQ==",
+  "dgSpecHash": "t4DNAhPu5ElkMGtmvVcJrxq4x3UJNYvBeCQ8yGTSnfCZbq192ju4zGE3s3W99kpuxAEmseXwgXRkg/eX1QJBjQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\BotClient (task 10)\\BotClient (task 10)\\BotClient (task 10).csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\20IS3-3_Practice_Bruev\\BotClient (task 10)\\BotClient (task 10)\\BotClient (task 10).csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\telegram.bot\\19.0.0\\telegram.bot.19.0.0.nupkg.sha512"
