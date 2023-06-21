@@ -430,6 +430,33 @@ ArgumentNullException
 
 ![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/f7f87997-4e1c-422f-ac9b-640a0ce465b0)
 
+Создание метода HandleUpdateAsync
+
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/cb526bbe-d894-4dd8-8167-928c4c270b54)
+
+Обработка исключений
+
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/aa63c67d-f8fd-4486-a908-77e5cc4d9bfa)
+
+Инициализация бота в методе Main
+
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/106166d8-20e2-4d69-aa77-adb35db16031)
+
+Проверяем работу бота
+
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/9ce4b1a1-91e0-4b11-bedf-73c8e176c9e7)
+
+Меняем условие для проверки
+
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/083c3b99-b70a-4e8b-bb19-8cbf84fb262d)
+
+Повторно тестируем работу бота
+
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/0b5f9fca-30cd-4040-b148-8b91bb256b94)
+
+
+
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
