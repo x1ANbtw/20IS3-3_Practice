@@ -23,6 +23,8 @@
 
 День 9: [task 10]()
 
+День 10: [task 10 (html)]()
+
 <h1 align="center">Практический день 1</h1>
 
 <h2 align="center">Задание 1</h2>
@@ -466,6 +468,12 @@ ArgumentNullException
 
 ![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/6ea88479-a006-44dc-9089-ec06906548d3)
 
+<h1 align="center">Практический день 9</h1>
+
+# [Задание10(html)]()
+
+
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/72f36022-e47a-4e53-8097-623bcfd3a6fd)
 
 
 
