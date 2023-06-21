@@ -482,6 +482,9 @@ ArgumentNullException
 
 ![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/71a291d7-aa8e-4a33-ae7b-100a0e6d2eb9)
 
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/c865f6db-0038-420e-a6e8-8c945e44904b)
+
+Выполняем привязку html-страницы и таблицы стилей
 
 
 
