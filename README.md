@@ -450,9 +450,20 @@ ArgumentNullException
 
 ![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/083c3b99-b70a-4e8b-bb19-8cbf84fb262d)
 
-Повторно тестируем работу бота
+Повторно тестируем работу бота с командой "Проверка"
 
 ![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/0b5f9fca-30cd-4040-b148-8b91bb256b94)
+
+Добавление команд в бота
+
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/0762e548-b13c-4061-b2eb-61f6d61b06a4)
+
+Проверка работы новых команд
+
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/c5f7ffa0-ee41-4e7e-a645-5ee5ffa1b235)
+
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/87288f26-c7d0-4866-9979-b5cf2a98db0a)
+
 
 
 
