@@ -21,7 +21,9 @@
 День 8: [task 9](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/tree/main#:~:text=%D0%BA%20%D0%BE%D1%81%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%BC%20%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%B0%D0%BC-,%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C%208,-%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B59)
 
 
-День 9: [task 10]()
+День 9: [task 10](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/tree/main#:~:text=%D1%87%D0%B5%D1%80%D0%B5%D0%B7%20dotnet%2Dcli-,%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C%209,-%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B510)
+
+День 10: [task 10 (html)]()
 
 <h1 align="center">Практический день 1</h1>
 
@@ -465,6 +467,24 @@ ArgumentNullException
 ![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/87288f26-c7d0-4866-9979-b5cf2a98db0a)
 
 ![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/6ea88479-a006-44dc-9089-ec06906548d3)
+
+<h1 align="center">Практический день 9</h1>
+
+# [Задание10(html)]()
+
+# Формирование веб-страниц
+
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/f5e7788b-7b49-4623-977d-a694c19f03aa)
+
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/863fe761-49a1-42de-9a00-c5a6bc4f9904)
+
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/daa20d97-4f20-4d52-8548-869725cc6c5f)
+
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/71a291d7-aa8e-4a33-ae7b-100a0e6d2eb9)
+
+
+
+
 
 
 
