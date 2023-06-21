@@ -474,8 +474,10 @@ ArgumentNullException
 
 # Формирование веб-страниц
 
-![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/72f36022-e47a-4e53-8097-623bcfd3a6fd)
-![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/2b384537-4f7e-40f1-a3f1-e365840a518e)
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/f5e7788b-7b49-4623-977d-a694c19f03aa)
+
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/863fe761-49a1-42de-9a00-c5a6bc4f9904)
+
 
 
 
