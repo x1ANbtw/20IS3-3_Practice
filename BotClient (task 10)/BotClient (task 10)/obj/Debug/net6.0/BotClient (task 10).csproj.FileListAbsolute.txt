@@ -1,0 +1,18 @@
+C:\Users\user\Desktop\BotClient (task 10)\BotClient (task 10)\bin\Debug\net6.0\BotClient (task 10).exe
+C:\Users\user\Desktop\BotClient (task 10)\BotClient (task 10)\bin\Debug\net6.0\BotClient (task 10).deps.json
+C:\Users\user\Desktop\BotClient (task 10)\BotClient (task 10)\bin\Debug\net6.0\BotClient (task 10).runtimeconfig.json
+C:\Users\user\Desktop\BotClient (task 10)\BotClient (task 10)\bin\Debug\net6.0\BotClient (task 10).dll
+C:\Users\user\Desktop\BotClient (task 10)\BotClient (task 10)\bin\Debug\net6.0\BotClient (task 10).pdb
+C:\Users\user\Desktop\BotClient (task 10)\BotClient (task 10)\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\user\Desktop\BotClient (task 10)\BotClient (task 10)\bin\Debug\net6.0\Telegram.Bot.dll
+C:\Users\user\Desktop\BotClient (task 10)\BotClient (task 10)\obj\Debug\net6.0\BotClient (task 10).csproj.AssemblyReference.cache
+C:\Users\user\Desktop\BotClient (task 10)\BotClient (task 10)\obj\Debug\net6.0\BotClient (task 10).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\BotClient (task 10)\BotClient (task 10)\obj\Debug\net6.0\BotClient (task 10).AssemblyInfoInputs.cache
+C:\Users\user\Desktop\BotClient (task 10)\BotClient (task 10)\obj\Debug\net6.0\BotClient (task 10).AssemblyInfo.cs
+C:\Users\user\Desktop\BotClient (task 10)\BotClient (task 10)\obj\Debug\net6.0\BotClient (task 10).csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\BotClient (task 10)\BotClient (task 10)\obj\Debug\net6.0\BotClient (task 10).csproj.CopyComplete
+C:\Users\user\Desktop\BotClient (task 10)\BotClient (task 10)\obj\Debug\net6.0\BotClient (task 10).dll
+C:\Users\user\Desktop\BotClient (task 10)\BotClient (task 10)\obj\Debug\net6.0\refint\BotClient (task 10).dll
+C:\Users\user\Desktop\BotClient (task 10)\BotClient (task 10)\obj\Debug\net6.0\BotClient (task 10).pdb
+C:\Users\user\Desktop\BotClient (task 10)\BotClient (task 10)\obj\Debug\net6.0\BotClient (task 10).genruntimeconfig.cache
+C:\Users\user\Desktop\BotClient (task 10)\BotClient (task 10)\obj\Debug\net6.0\ref\BotClient (task 10).dll
