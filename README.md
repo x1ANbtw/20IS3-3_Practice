@@ -478,6 +478,13 @@ ArgumentNullException
 
 ![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/863fe761-49a1-42de-9a00-c5a6bc4f9904)
 
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/daa20d97-4f20-4d52-8548-869725cc6c5f)
+
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/71a291d7-aa8e-4a33-ae7b-100a0e6d2eb9)
+
+
+
+
 
 
 
