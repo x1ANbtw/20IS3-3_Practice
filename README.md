@@ -456,7 +456,7 @@ ArgumentNullException
 
 Добавление команд в бота
 
-![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/0762e548-b13c-4061-b2eb-61f6d61b06a4)
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/eb65e381-a911-4644-a848-17f944ecfc6d)
 
 Проверка работы новых команд
 
