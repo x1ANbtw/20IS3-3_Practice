@@ -456,7 +456,7 @@ ArgumentNullException
 
 Добавление команд в бота
 
-![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/eb65e381-a911-4644-a848-17f944ecfc6d)
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/082bf2d0-83a2-48be-afab-298ad24dd587)
 
 Проверка работы новых команд
 
@@ -464,6 +464,7 @@ ArgumentNullException
 
 ![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/87288f26-c7d0-4866-9979-b5cf2a98db0a)
 
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/6ea88479-a006-44dc-9089-ec06906548d3)
 
 
 
