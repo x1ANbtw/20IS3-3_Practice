@@ -116,6 +116,16 @@ namespace BotClient__task_10_
             HttpClient client = new HttpClient();
             var result = await client.GetAsync("https://localhost:7178/api/User");
             Console.WriteLine(result);
+
+            var test = await result.Content.ReadAsStringAsync();
+            Console.WriteLine(test);
+
+            Domain.Models.User[] users = JsonConvert.DeserializeObject<Domain.Models.User[]>(test);
+
+            foreach (var user in users)
+            {
+                Console.WriteLine($"{user.UserId} {user.Username} {user.Password} {user.RoleId} {user.FirstName} {user.LastName} {user.FirstName} {user.PhoneNumber} {user.Email} {user.Addres} {user.IsDeleted}");
+            }
         }
     }
 }
