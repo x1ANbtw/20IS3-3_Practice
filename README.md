@@ -468,9 +468,52 @@ ArgumentNullException
 
 ![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/6ea88479-a006-44dc-9089-ec06906548d3)
 
+# Telegram-бот для API
+
+Переходим по ссылке, чтобы посмотреть в каком виде будут получены данные из API
+
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/48d0eb0a-f6b5-48c3-8450-8bd2ba7e833e)
+
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/abca8b03-ed12-4881-90b2-c61565a74ecf)
+
+Посмотрим на ответ API из метода result
+
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/4366906f-b93e-4caa-8e81-6b20f31f6f60)
+
+Ответ в консоли 
+
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/260818c8-153a-4300-9e66-4146c06cae81)
+
+Чтобы получить данные - для переменной result выполняем следующие действия:
+
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/f882b51c-5fd7-4d5b-bd7d-03efb8e9dde6)
+
+Новый ответ в консоли
+
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/1cd08f82-5a26-4443-bb78-0c3ccfe0586a)
+
+Добавляем папку Domain в проект бота 
+
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/4a478ffa-2128-4aa3-8aaa-9299377cbc3b)
+
+Удаляем лишние папки
+
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/c10bae53-c976-4b06-b221-a65462f2fa24)
+
+Добавляем ссылку на проект
+
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/0855f27a-14ee-4243-bbd9-9f6a6aa7b53c)
+
+Преобразовываем данные формата Json в массив пользователей
+
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/219a8c22-774e-466a-99c2-566b7d4c8013)
+
+![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/843d6b69-596b-492d-8fa8-dee71568bf3a)
+
+
 <h1 align="center">Практический день 9</h1>
 
-# [Задание10(html)]()
+# [Задание11()
 
 # Формирование веб-страниц
 
