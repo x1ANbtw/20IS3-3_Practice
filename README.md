@@ -470,7 +470,7 @@ ArgumentNullException
 
 # Telegram-бот для API
 
-Переходим по ссылке ссылке, чтобы посмотреть в каком виде будут получены данные из API
+Переходим по ссылке, чтобы посмотреть в каком виде будут получены данные из API
 
 ![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/48d0eb0a-f6b5-48c3-8450-8bd2ba7e833e)
 
