@@ -29,7 +29,7 @@
 
 <h2 align="center">Задание 1</h2>
 
-[Задание 1](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/tree/main/BackendAPI) и [скриншоты](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/tree/main/ScreenShots) к нему
+# [Задание 1](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/tree/main/BackendAPI)
 
 <h3>Главное Меню приложения</h3>
 
@@ -109,9 +109,8 @@ c. Если значение параметра -1 - верните отсорт
 
 ![RemoveAt(14)_Error(more_than_count)](https://user-images.githubusercontent.com/125022706/225923517-09116279-efb4-4273-9f5b-5fe9c1ea0529.jpg)
 
-<h2 align="center">Задание 2</h2>
 
-[Задание 2](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/tree/main/BackendAPI%20v2.0) и [скриншоты](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/tree/main/screens%202.0) к нему
+# [Задание 2](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/tree/main/BackendAPI%20v2.0)
 
 Создание публичного класса с информацией о погоде.
 
