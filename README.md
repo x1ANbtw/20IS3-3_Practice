@@ -508,7 +508,7 @@ ArgumentNullException
 ![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/843d6b69-596b-492d-8fa8-dee71568bf3a)
 
 
-<h1 align="center">Практический день 9</h1>
+<h1 align="center">Практический день 10</h1>
 
 # [Задание11](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/tree/main/Task%2011%20(HTML))
 
