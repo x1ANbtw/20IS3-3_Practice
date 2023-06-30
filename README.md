@@ -27,8 +27,6 @@
 
 <h1 align="center">Практический день 1</h1>
 
-<h2 align="center">Задание 1</h2>
-
 # [Задание 1](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/tree/main/BackendAPI)
 
 <h3>Главное Меню приложения</h3>
