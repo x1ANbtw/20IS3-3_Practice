@@ -510,7 +510,7 @@ ArgumentNullException
 
 <h1 align="center">Практический день 9</h1>
 
-# [Задание11()
+# [Задание11](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/tree/main/Task%2011%20(HTML))
 
 # Формирование веб-страниц
 
