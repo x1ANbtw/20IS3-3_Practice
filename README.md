@@ -23,7 +23,7 @@
 
 День 9: [task 10](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/tree/main#:~:text=%D1%87%D0%B5%D1%80%D0%B5%D0%B7%20dotnet%2Dcli-,%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C%209,-%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B510)
 
-День 10: [task 10 (html)]()
+День 10: [task 11 (html)]()
 
 <h1 align="center">Практический день 1</h1>
 
