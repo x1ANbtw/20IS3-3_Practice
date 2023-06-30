@@ -468,19 +468,21 @@ ArgumentNullException
 
 ![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/6ea88479-a006-44dc-9089-ec06906548d3)
 
-#Telegram-бот для API
+# Telegram-бот для API
 
 Переходим по ссылке ссылке, чтобы посмотреть в каком виде будут получены данные из API
 
 ![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/48d0eb0a-f6b5-48c3-8450-8bd2ba7e833e)
 
+Посмотрим на ответ API из метода result
+
 ![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/4366906f-b93e-4caa-8e81-6b20f31f6f60)
 
-Посмотрим на ответ API из метода result
+Ответ в консоли 
 
 ![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/260818c8-153a-4300-9e66-4146c06cae81)
 
-Ответ в консоли 
+
 
 ![image](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/assets/125022706/abca8b03-ed12-4881-90b2-c61565a74ecf)
 
