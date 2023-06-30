@@ -416,7 +416,7 @@ ArgumentNullException
 
 <h1 align="center">Практический день 9</h1>
 
-# [Задание10]()
+# [Задание10](https://github.com/x1ANbtw/20IS3-3_Practice_Bruev/tree/main/BotClient%20(task%2010))
 
 # Создание телеграм-бота для интернет-магазина
 
